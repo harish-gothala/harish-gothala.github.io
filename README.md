@@ -67,7 +67,7 @@ Bash
 
 # This command runs the app in development mode.
 npm start
-Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
+Open http://127.0.0.1:5500/index.html to view it in your browser. The page will reload when you make changes.
 
 🤝 Contributing
 While this is a personal portfolio, I am open to suggestions and feedback. If you spot a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
