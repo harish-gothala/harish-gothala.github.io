@@ -50,8 +50,7 @@ Clone the repository
 
 Bash
 
-git clone https://github.com/harish-gothala/data-analyst-portfolio.git
-cd data-analyst-portfolio
+git clone https://github.com/harish-gothala/harish-gothala.github.io/tree/main
 Install dependencies
 
 Bash
