@@ -86,6 +86,6 @@ Open a Pull Request
 This project is distributed under the MIT License. See LICENSE.txt for more information.
 
 📬 Contact
-harish-yadav-gothala– LinkedIn – gharishyadav@gmail.com
+harish-yadav-gothala– LinkedIn – gharishyadav55@gmail.com
 
 Project Link: https://github.com/john-doe-data/data-analyst-portfolio
